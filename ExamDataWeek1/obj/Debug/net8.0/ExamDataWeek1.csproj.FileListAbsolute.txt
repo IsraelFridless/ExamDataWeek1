@@ -1,0 +1,14 @@
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\bin\Debug\net8.0\ExamDataWeek1.exe
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\bin\Debug\net8.0\ExamDataWeek1.deps.json
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\bin\Debug\net8.0\ExamDataWeek1.runtimeconfig.json
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\bin\Debug\net8.0\ExamDataWeek1.dll
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\bin\Debug\net8.0\ExamDataWeek1.pdb
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\obj\Debug\net8.0\ExamDataWeek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\obj\Debug\net8.0\ExamDataWeek1.AssemblyInfoInputs.cache
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\obj\Debug\net8.0\ExamDataWeek1.AssemblyInfo.cs
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\obj\Debug\net8.0\ExamDataWeek1.csproj.CoreCompileInputs.cache
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\obj\Debug\net8.0\ExamDataWeek1.dll
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\obj\Debug\net8.0\refint\ExamDataWeek1.dll
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\obj\Debug\net8.0\ExamDataWeek1.pdb
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\obj\Debug\net8.0\ExamDataWeek1.genruntimeconfig.cache
+C:\Users\Israel Fridless\Desktop\Exam\ExamDataWeek1\ExamDataWeek1\obj\Debug\net8.0\ref\ExamDataWeek1.dll
