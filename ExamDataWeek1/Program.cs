@@ -15,7 +15,7 @@ namespace ExamDataWeek1
 
             DefenceStrategiesBST defenceStrategiesBST = new DefenceStrategiesBST();
 
-            defenceStrategiesBST.Balance();
+            //defenceStrategiesBST.Balance();
 
             Logger("Printing the BSTree...");
 

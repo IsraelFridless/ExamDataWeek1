@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Israel Fridless\\Desktop\\Exam\\ExamDataWeek1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60770758-0E29-4099-9545-25CA70B2D86F}|ExamDataWeek1\\ExamDataWeek1.csproj|c:\\users\\israel fridless\\desktop\\exam\\examdataweek1\\examdataweek1\\utilities\\trees\\defencestrategiesbst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60770758-0E29-4099-9545-25CA70B2D86F}|ExamDataWeek1\\ExamDataWeek1.csproj|solutionrelative:examdataweek1\\utilities\\trees\\defencestrategiesbst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{60770758-0E29-4099-9545-25CA70B2D86F}|ExamDataWeek1\\ExamDataWeek1.csproj|c:\\users\\israel fridless\\desktop\\exam\\examdataweek1\\examdataweek1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60770758-0E29-4099-9545-25CA70B2D86F}|ExamDataWeek1\\ExamDataWeek1.csproj|solutionrelative:examdataweek1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60770758-0E29-4099-9545-25CA70B2D86F}|ExamDataWeek1\\ExamDataWeek1.csproj|c:\\users\\israel fridless\\desktop\\exam\\examdataweek1\\examdataweek1\\utilities\\trees\\defencestrategiesbst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60770758-0E29-4099-9545-25CA70B2D86F}|ExamDataWeek1\\ExamDataWeek1.csproj|solutionrelative:examdataweek1\\utilities\\trees\\defencestrategiesbst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60770758-0E29-4099-9545-25CA70B2D86F}|ExamDataWeek1\\ExamDataWeek1.csproj|c:\\users\\israel fridless\\desktop\\exam\\examdataweek1\\examdataweek1\\models\\defensemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DefenceStrategiesBST.cs",
               "DocumentMoniker": "C:\\Users\\Israel Fridless\\Desktop\\Exam\\ExamDataWeek1\\ExamDataWeek1\\Utilities\\Trees\\DefenceStrategiesBST.cs",
               "RelativeDocumentMoniker": "ExamDataWeek1\\Utilities\\Trees\\DefenceStrategiesBST.cs",
@@ -75,8 +75,7 @@
               "RelativeToolTip": "ExamDataWeek1\\Utilities\\Trees\\TreeNode.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T09:17:25.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T09:17:25.09Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "ExamDataWeek1\\defenceStrategies.json",
               "ViewState": "AQIAACQAAAAAAAAAAAAAAD0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T13:47:37.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T13:47:37.785Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "ExamDataWeek1\\Models\\ThreatModel.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAD4vw4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T09:24:00.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T09:24:00.235Z"
             },
             {
               "$type": "Document",
@@ -114,18 +111,17 @@
               "RelativeToolTip": "ExamDataWeek1\\Models\\DefenseModel.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAYwA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T09:31:27.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T09:31:27.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Israel Fridless\\Desktop\\Exam\\ExamDataWeek1\\ExamDataWeek1\\Program.cs",
               "RelativeDocumentMoniker": "ExamDataWeek1\\Program.cs",
               "ToolTip": "C:\\Users\\Israel Fridless\\Desktop\\Exam\\ExamDataWeek1\\ExamDataWeek1\\Program.cs",
               "RelativeToolTip": "ExamDataWeek1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T08:08:47.424Z",
               "EditorCaption": ""
@@ -140,8 +136,7 @@
               "RelativeToolTip": "ExamDataWeek1\\Utilities\\DefenseUtils.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T12:12:26.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T12:12:26.732Z"
             },
             {
               "$type": "Document",
@@ -153,8 +148,7 @@
               "RelativeToolTip": "ExamDataWeek1\\Utilities\\JsonHandling.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T09:49:31.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T09:49:31.612Z"
             },
             {
               "$type": "Document",
@@ -166,8 +160,7 @@
               "RelativeToolTip": "ExamDataWeek1\\Utilities\\ThreatUtils.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:46:10.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T10:46:10.236Z"
             },
             {
               "$type": "Document",
@@ -179,8 +172,7 @@
               "RelativeToolTip": "ExamDataWeek1\\defenceStrategiesBalanced.json",
               "ViewState": "AQIAABgAAAAAAAAAAAAAABQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T09:12:32.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T09:12:32.409Z"
             }
           ]
         }
